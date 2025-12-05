@@ -16,5 +16,10 @@ Esta es una aplicación web sencilla para **crear y visualizar notas**, desarrol
 | Categoría | Tecnología | Descripción |
 | :--- | :--- | :--- |
 | **Frontend** | **Vue.js** | Framework progresivo de JavaScript. |
-| **Gestión fetch**| Para realizar las peticiones a la API. |
+| **Gestión fetch**| **Javascript** |Para realizar las peticiones a la API. |
+
+## 🛠️ Configura la API
+* **La aplicación requiere acceso a un endpoint.
+* **const API_URL = 'TU_URL_DE_API_TRIGGER_AQUÍ';
+
 
