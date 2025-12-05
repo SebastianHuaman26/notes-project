@@ -1,5 +1,20 @@
-# Vue 3 + Vite
+# 📝 Note-App: Un Simple Administrador de Notas (Vue.js + API REST)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 🚀 Descripción del Proyecto
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Esta es una aplicación web sencilla para **crear y visualizar notas**, desarrollada usando **Vue.js** (Frontend) para una interfaz de usuario reactiva y una **API REST** (Backend) para la gestión de datos persistentes. Es un proyecto ideal para demostrar la integración de una librería moderna de JavaScript con un servicio de backend simple.
+
+## ✨ Características Principales
+
+* **Creación Rápida de Notas:** Interfaz intuitiva para añadir nuevas notas.
+* **Visualización de Notas:** Muestra todas las notas existentes.
+* **API Agnostic:** Se comunica mediante peticiones **GET** y **POST** a un *endpoint* simple.
+* **Tecnología Frontend:** Construido con **Vue.js** para una experiencia de usuario dinámica.
+
+## 🛠️ Tecnologías Utilizadas
+
+| Categoría | Tecnología | Descripción |
+| :--- | :--- | :--- |
+| **Frontend** | **Vue.js** | Framework progresivo de JavaScript. |
+| **Gestión fetch**| Para realizar las peticiones a la API. |
+
